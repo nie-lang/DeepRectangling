@@ -13,6 +13,13 @@ The details of the dataset can be found in our paper.
 
 We release our testing results with the proposed dataset together. One can download it in in [Google Drive]() or [Baidu Cloud](https://pan.baidu.com/s/1z_xVnpOEItZEyaCLnUGKfw)(Extraction code: 1234).
 
+## Requirement
+* python 3.6
+* numpy 1.18.1
+* tensorflow 1.13.1
+
+<sup>We only test it in Ubuntu OS with RXT 2080Ti.</sup>
+
 ## Training
 #### Step 1: Download the pretrained vgg19 model
 Download [VGG-19](https://www.vlfeat.org/matconvnet/pretrained/#downloading-the-pre-trained-models). Search imagenet-vgg-verydeep-19 in this page and download imagenet-vgg-verydeep-19.mat. 
