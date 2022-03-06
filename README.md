@@ -4,4 +4,4 @@
 <p align="center"><sup>2</sup>School of Information and Communication Engineering, University of Electronic Science and Technology of China</p>
 
 <p align="center"><sup>{nielang, cylin, kang_liao, yzhao}@bjtu.edu.cn, liushuaicheng@uestc.edu.cn</sup></p>
-![image](https://github.com/nie-lang/UnsupervisedDeepImageStitching/blob/main/network.jpg)
+![image](https://github.com/nie-lang/DeepRectangling/blob/main/rectangling.jpg)
