@@ -7,3 +7,8 @@
 <div align=center>
 <img src="https://github.com/nie-lang/DeepRectangling/blob/main/rectangling.jpg"/>
 </div>
+
+## Dataset (DIR-D)
+The details of the dataset can be found in our paper. 
+
+We release our testing results with the proposed dataset together. One can download it in in [Google Drive](https://drive.google.com/drive/folders/1kC7KAULd5mZsqaWnY3-rSbQLaZ7LujTY?usp=sharing) or [Baidu Cloud](https://pan.baidu.com/s/13KZ29e487datgtMgmb9laQ)(Extraction code: 1234).
