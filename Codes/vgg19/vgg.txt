@@ -1,0 +1,2 @@
+Download VGG-19. 
+Search imagenet-vgg-verydeep-19 in this page (https://www.vlfeat.org/matconvnet/pretrained/#downloading-the-pre-trained-models) and download imagenet-vgg-verydeep-19.mat. 
