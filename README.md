@@ -11,7 +11,7 @@
 ## Dataset (DIR-D)
 The details of the dataset can be found in our paper. 
 
-We release our testing results with the proposed dataset together. One can download it in in [Google Drive]() or [Baidu Cloud](https://pan.baidu.com/s/1z_xVnpOEItZEyaCLnUGKfw)(Extraction code: 1234).
+We release our testing results with the proposed dataset together. One can download it in in [Google Drive](https://drive.google.com/file/d/1KR5DtekPJin3bmQPlTGP4wbM1zFR80ak/view?usp=sharing) or [Baidu Cloud](https://pan.baidu.com/s/1KqVhLxGkclAw-14m_OH1JQ)(Extraction code: 1234).
 
 ## Requirement
 * python 3.6
@@ -33,7 +33,7 @@ python train.py
 
 ## Testing
 #### Pretrained model for deep rectangling
-Our pretrained rectangling model can be available at [Google Drive]() or [Baidu Cloud](https://pan.baidu.com/s/1Rc_UvnCs6O_e0gkBE3i6_Q)(Extraction code: 1234). And place the four files to 'Codes/checkpoints/Ptrained_model/' folder.
+Our pretrained rectangling model can be available at [Google Drive](https://drive.google.com/drive/folders/1gEsE-7QBPcbH-kfHqYYR67C-va7vztxO?usp=sharing) or [Baidu Cloud](https://pan.baidu.com/s/19jRzz_1E97X35j6qmWm_kg)(Extraction code: 1234). And place the four files to 'Codes/checkpoints/Ptrained_model/' folder.
 #### Testing with your own model
 Modidy the 'Codes/constant.py'to set the 'TEST_FOLDER'/'GPU'. The path for the checkpoint file can be modified in 'Codes/inference.py'.
 
