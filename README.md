@@ -21,7 +21,7 @@ We release our testing results with the proposed dataset together. One can downl
 <sup>We only test it in Ubuntu OS with RXT 2080Ti.</sup>
 
 ## For windows system
-For windows OS users, you have to change '/' to '\\\\' in 'line 73 of Codes/utils.py'.
+For windows OS users, you have to change '/' to '\\\\' in 'line 52 of Codes/utils.py'.
 
 ## Training
 #### Step 1: Download the pretrained vgg19 model
