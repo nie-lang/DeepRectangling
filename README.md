@@ -20,6 +20,9 @@ We release our testing results with the proposed dataset together. One can downl
 
 <sup>We only test it in Ubuntu OS with RXT 2080Ti.</sup>
 
+## For windows system
+For windows OS users, you have to change '/' to '\\\\' in 'line 73 of Codes/utils.py'.
+
 ## Training
 #### Step 1: Download the pretrained vgg19 model
 Download [VGG-19](https://www.vlfeat.org/matconvnet/pretrained/#downloading-the-pre-trained-models). Search imagenet-vgg-verydeep-19 in this page and download imagenet-vgg-verydeep-19.mat. 
