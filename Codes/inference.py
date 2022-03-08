@@ -71,7 +71,7 @@ with tf.Session(config=config) as sess:
         print(ckpt)
         load(loader, sess, ckpt)
         print("============")
-        length = len(os.listdir(test_folder+"/input"))
+        length = 519 #len(os.listdir(test_folder+"/input"))
         psnr_list = []
         ssim_list = []
 
