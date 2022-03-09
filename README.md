@@ -1,4 +1,4 @@
-# Deep Rectangling for Image stitching: A Learning Baseline ([paper]())
+# Deep Rectangling for Image stitching: A Learning Baseline ([paper](https://arxiv.org/abs/2203.03831))
 <p align="center">Lang Nie<sup>1</sup>, Chunyu Lin<sup>1 *</sup>, Kang Liao<sup>1</sup>, Shuaicheng Liu<sup>2</sup>, Yao Zhao<sup>1</sup></p>
 <p align="center"><sup>1</sup>Institute of Information Science, Beijing Jiaotong University</p>
 <p align="center"><sup>2</sup>School of Information and Communication Engineering, University of Electronic Science and Technology of China</p>
