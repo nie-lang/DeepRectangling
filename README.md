@@ -45,9 +45,15 @@ python inference.py
 ```
 
 
-## Meta
+## Citation
 NIE Lang -- nielang@bjtu.edu.cn
 ```
+@article{nie2022deep,
+      title={Deep Rectangling for Image Stitching: A Learning Baseline}, 
+      author={Lang Nie and Chunyu Lin and Kang Liao and Shuaicheng Liu and Yao Zhao},
+      journal={arXiv preprint arXiv:2203.03831},
+      year={2022},
+}
 ```
 
 ## Reference
