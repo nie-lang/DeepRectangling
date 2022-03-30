@@ -31,18 +31,28 @@ Download [VGG-19](https://www.vlfeat.org/matconvnet/pretrained/#downloading-the-
 Modidy the 'Codes/constant.py' to set the 'TRAIN_FOLDER'/'ITERATIONS'/'GPU'. In our experiment, we set 'ITERATIONS' to 100,000.
 
 ```
+cd Codes/
 python train.py
 ```
 
 ## Testing
 #### Pretrained model for deep rectangling
 Our pretrained rectangling model can be available at [Google Drive](https://drive.google.com/drive/folders/1gEsE-7QBPcbH-kfHqYYR67C-va7vztxO?usp=sharing) or [Baidu Cloud](https://pan.baidu.com/s/19jRzz_1E97X35j6qmWm_kg)(Extraction code: 1234). And place the four files to 'Codes/checkpoints/Ptrained_model/' folder.
-#### Testing with your own model
+#### Testing 
 Modidy the 'Codes/constant.py'to set the 'TEST_FOLDER'/'GPU'. The path for the checkpoint file can be modified in 'Codes/inference.py'.
 
 ```
+cd Codes/
 python inference.py
 ```
+#### Testing with arbitrary resolution images
+Modidy the 'Codes_for_Arbitrary_Resolution/constant.py'to set the 'TEST_FOLDER'/'GPU'. The path for the checkpoint file can be modified in 'Codes_for_Arbitrary_Resolution/inference.py'. 
+
+```
+cd Codes_for_Arbitrary_Resolution/
+python inference.py
+```
+The rectangling results can be found in Codes_for_Arbitrary_Resolution/rectangling/.
 
 
 ## Citation
