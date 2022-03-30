@@ -47,6 +47,7 @@ python inference.py
 ```
 #### Testing with arbitrary resolution images
 Modidy the 'Codes_for_Arbitrary_Resolution/constant.py'to set the 'TEST_FOLDER'/'GPU'. The path for the checkpoint file can be modified in 'Codes_for_Arbitrary_Resolution/inference.py'. 
+Then, put the testing images into the folder 'Codes_for_Arbitrary_Resolution/other_dataset/' (including input and mask) and run:
 
 ```
 cd Codes_for_Arbitrary_Resolution/
@@ -56,6 +57,9 @@ The rectangling results can be found in Codes_for_Arbitrary_Resolution/rectangli
 
 
 ## Citation
+This paper has been accepted by CVPR2022 as oral presentation. If you have any questions, please feel free to contact me.
+
+
 NIE Lang -- nielang@bjtu.edu.cn
 ```
 @article{nie2022deep,
