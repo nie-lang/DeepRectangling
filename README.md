@@ -62,11 +62,12 @@ This paper has been accepted by CVPR2022 as oral presentation. If you have any q
 
 NIE Lang -- nielang@bjtu.edu.cn
 ```
-@article{nie2022deep,
-      title={Deep Rectangling for Image Stitching: A Learning Baseline}, 
-      author={Lang Nie and Chunyu Lin and Kang Liao and Shuaicheng Liu and Yao Zhao},
-      journal={arXiv preprint arXiv:2203.03831},
-      year={2022},
+@inproceedings{nie2022deep,
+  title={Deep Rectangling for Image Stitching: A Learning Baseline},
+  author={Nie, Lang and Lin, Chunyu and Liao, Kang and Liu, Shuaicheng and Zhao, Yao},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={5740--5748},
+  year={2022}
 }
 ```
 
