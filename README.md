@@ -72,4 +72,6 @@ NIE Lang -- nielang@bjtu.edu.cn
 ```
 
 ## Reference
-Lang Nie, Chunyu Lin, Kang Liao, Shuaicheng Liu, and Yao Zhao. Depth-aware multi-grid deep homography estimation with contextual correlation. IEEE Trans. on Circuits and Systems for Video Technology, 2021.
+1. Lang Nie, Chunyu Lin, Kang Liao, Shuaicheng Liu, and Yao Zhao. Depth-aware multi-grid deep homography estimation with contextual correlation. IEEE Trans. on Circuits and Systems for Video Technology, 2021.
+
+2. Kaiming He, Huiwen Chang, Jian Sun. Rectangling panoramic images via warping. SIGGRAPH, 2013.
