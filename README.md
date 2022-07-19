@@ -18,7 +18,8 @@ We release our testing results with the proposed dataset together. One can downl
 * numpy 1.18.1
 * tensorflow 1.13.1
 
-<sup>We only test it in Ubuntu OS with RXT 2080Ti.</sup>
+If you encounter some problems about the tensorflow environment, please refer to this [issue](https://github.com/nie-lang/DeepRectangling/issues/4).
+
 
 ## For windows system
 For windows OS users, you have to change '/' to '\\\\' in 'line 52 of Codes/utils.py'.
